@@ -1,0 +1,31 @@
+* {
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+    
+}
+label{
+    color:palegreen;
+  
+}
+input{
+    background-color: white;
+    border-radius: 5%;
+    border: white;
+}
+a{
+color: palegoldenrod;
+
+
+
+}
+button{
+    background-color: plum;
+    border: plum;
+    border-radius: 5%;
+}
+span{
+    
+    color: white;
+}
